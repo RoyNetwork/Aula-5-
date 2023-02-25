@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    font-size: 20px;
+    background-color: #0099ff;
+  }
+  
+  body {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  header {
+    background-color: aliceblue;
+  }
+
+  article{
+    background-color: hwb(0 93% 7%);
+  }
+  section{
+    background-color: aqua;
+  }
+  footer{
+    background-color: blueviolet;
+    height: 300;
+    width: 200;
+  }
+ba
